@@ -1,0 +1,26 @@
+[
+  {
+    "Progetto":"SAI-A01",
+    "Struttura":"AVELLINO",
+    "Ente":"PERCORSI",
+    "Indirizzo":"Via Roma 10, Avellino"
+  },
+  {
+    "Progetto":"SAI-A01",
+    "Struttura":"AVELLINO",
+    "Ente":"AIC",
+    "Indirizzo":"Piazza Libertà 5, Avellino"
+  },
+  {
+    "Progetto":"SAI-A02",
+    "Struttura":"BENEVENTO",
+    "Ente":"PERCORSI",
+    "Indirizzo":"Corso Garibaldi 25, Benevento"
+  },
+  {
+    "Progetto":"SAI-A03",
+    "Struttura":"BENEVENTO",
+    "Ente":"PERCORSI",
+    "Indirizzo":"Piazza Duomo 5, Benevento"
+  }
+]
